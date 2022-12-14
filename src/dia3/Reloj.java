@@ -45,6 +45,9 @@ public class Reloj {
     public void setReloj(){
         
     }
+    public void prueba () {
+        System.out.println("Haciendo fork ");
+    }
     
     public String getHoras(){
         return Hora;
